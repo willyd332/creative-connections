@@ -1,4 +1,4 @@
-# Tindervator (not final)
+# Creative Connections
 ### An app that is being developed for an evolving idea
 
 #### Description
